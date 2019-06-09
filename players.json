@@ -1,0 +1,18 @@
+{
+    "marvin": {
+        "inventory": [],
+        "room": "Outside"
+    },
+    "marvin\\": {
+        "inventory": [],
+        "room": "Tavern"
+    },
+    "sally": {
+        "inventory": [],
+        "room": "chair"
+    },
+    "stadham": {
+        "inventory": [],
+        "room": "Tavern"
+    }
+}
